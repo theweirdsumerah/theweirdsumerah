@@ -36,6 +36,9 @@
 - 🐍 **[Simple calculator using Tkinter-Python](#)** — basic simple calculator.
 - 🐍 **[Python mini projects](#)** — learning-by-doing projects (coming soon!).
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=theweirdsumerah&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 
 ### ✍️ Random Dev Quote
