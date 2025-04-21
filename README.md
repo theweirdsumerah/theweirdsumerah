@@ -11,7 +11,7 @@
 <!--- 📫 How to reach me: [Your email or LinkedIn]-->
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theweirdsumerah) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sumerahtasmiahkhan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tasmiah.khan.89) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tasmiah-khan9234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khantasmiah899@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tasmiah-khan9234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khantasmiah899@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theweirdsumerah) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sumerahtasmiahkhan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tasmiah.khan.89)
 
 ## 🛠️ Languages & Tools
 
