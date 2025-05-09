@@ -25,7 +25,6 @@
 ## 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=theweirdsumerah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=theweirdsumerah&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theweirdsumerah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
@@ -34,7 +33,7 @@
 ## 🌱 Projects I'm Working On
 - 📘 **[Productivity tracker in C++](#)** — basic tracker with timer and checklist.
 - 🐍 **[Simple calculator using Tkinter-Python](#)** — basic simple calculator.
-- 🐍 **[Python mini projects](#)** — learning-by-doing projects (coming soon!).
+- 🐍 **[Python mini projects](#)** — learning-by-doing projects.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=theweirdsumerah&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
