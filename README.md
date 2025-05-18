@@ -29,9 +29,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=theweirdsumerah&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-## 🌱 Projects I'm Working On
-- 📘 **[Productivity tracker in C++](#)** — basic tracker with timer and checklist.
-- 🐍 **[Python mini projects](#)** — learning-by-doing projects.
 
 
 
