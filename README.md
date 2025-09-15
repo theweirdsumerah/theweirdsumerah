@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sumerah Tasmiah Khan!
+# Hey🫶, it's Sumerah here💜
 
 🎓 I'm a passionate **programmer** exploring the world of software development.  
 💻 Currently learning **Python**, and have a solid foundation in **C** and **C++**.
