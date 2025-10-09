@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: Building small projects in Python and java to sharpen my skills.
-- 🌱 Learning: Python (Data Structures, OOP, and more!)
+- 🔭 Currently working on: Building small projects in Python and Java to sharpen my skills.
+- 🌱 Learning: Python, Java (Data Structures, OOP, and more!)
 <!--- 👯 I’m looking to collaborate on beginner-friendly open source projects.
 <!--- 📫 How to reach me: [Your email or LinkedIn]-->
 
